@@ -2,4 +2,4 @@
 
 | Sección | Ejercicio |
 | ----------- | ----------- |
-| Colocación | Grid vs Flexbox |
+| Colocación | [Grid vs Flexbox](colocacion) |
